@@ -1,5 +1,5 @@
 
-A simple HR Management System developed using Java and NetBeans with a modern GUI built with NetBeans Swing.
+## A simple HR Management System developed using Java and NetBeans with a modern GUI built with NetBeans Swing. ##
 
 ## Features
 
